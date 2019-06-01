@@ -2,8 +2,8 @@
 def valid_move?(board, pos)
   if(pos >= 0 && pos<= 8)
     return true
-  else 
-    return false 
+  else
+    return false
   end
 end
 
